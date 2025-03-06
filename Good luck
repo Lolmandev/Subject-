@@ -1,0 +1,11 @@
+<html>
+<head> <title> Marquee </title>
+</head>
+<body background = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN7XqVeYKHNwzJW_BusvGIP4VKoqxHO9YEbmfzGrmwnw&s">
+<b><em>Marquee</b></em>
+<p> <em> So How's y'all's Examination goin hope y'all nailing it . ❣️👍
+</p> 
+<Marquee BEHAVIOUR = "SCROLL" SCROLLAMOUNT ="999999"> <IMG SRC="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSU03ZgMIhrR-56CNTVlLp4zKDI_PI95Ie4Q&s">
+</Marquee>
+</body>
+</html>
