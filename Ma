@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>Marquee Example</title>
-</head>
-<body>
-<marquee>Emily studied hard and passed the exam!</marquee>
-</body>
-</html>
